@@ -1,0 +1,3 @@
+[submodule "wp-content/themes/wpt-headless-subject026"]
+	path = wp-content/themes/wpt-headless-subject026
+	url = git@github.com:subject026/wpt-headless-subject026.git
